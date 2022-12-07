@@ -1,0 +1,15 @@
+.header-container{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    background-color: #8926d1;
+    padding: 0 20px;
+}
+a{
+    color: white;
+}
+.img{width: 30px;
+    border-radius: 50%;
+}

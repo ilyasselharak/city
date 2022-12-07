@@ -1,0 +1,35 @@
+h2{
+    text-align: center;
+
+}
+span{
+    display: block;
+    color: white;
+    padding: 5px 10px;
+}
+input{
+    border: none;
+    height: 20px;
+
+    width: 80%;
+    border-radius: 8px;
+    margin: 0px 10px;
+}
+textarea{border: none;border-radius: 8px;margin: 0px 10px;}
+.cnt-form{
+    background-color: rgb(139, 113, 231);
+    width: 50%;
+    padding-top: 20px;
+
+}
+.contact{
+    display: flex;
+    margin-top: 50px;
+    height: 250px;
+}
+.info-cnt{
+    padding: 15px 8px;
+}
+.info-cnt p,.info-cnt address{padding: 10px 0px;}
+
+.cnt-form2{width: 50%;text-align: center;}
